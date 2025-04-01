@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi, I'm Aldair Copa Condo<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">Estudiante avanzado de Ingeniería de Sistemas y Desarrollador Backend</h3>
+<h3 font-size="20" align="center">Estudiante avanzado de Ingeniería de Sistemas y Desarrollador Software (Backend)</h3>
 
 <h4 font-size="16" align="center">Apasionado por la optimización de bases de datos y la implementación de soluciones eficientes. Busco aplicar mis conocimientos en proyectos innovadores mientras sigo aprendiendo y creciendo profesionalmente.</h4>
 
